@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+# NOT YET 100% FINISHED
 from scapy.all import *
 import socket
 import sys
