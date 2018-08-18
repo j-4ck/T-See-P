@@ -1,5 +1,6 @@
 # WORK IN PROGRESS
 # NOT YET 100% FINISHED
+# long live deletehumanity
 from scapy.all import *
 import socket
 import sys
